@@ -1,0 +1,65 @@
+{
+  "format": "G021-static-release-v1",
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "README.md": {
+      "bytes": 2903,
+      "sha256": "097ad8c103fa01def63430d1f06b228904a79f8cf259210d89303af4352ad49f"
+    },
+    "about.css": {
+      "bytes": 1919,
+      "sha256": "9855d72ce24a822276f9ea3648c89cbed84ed3ed86b9056a341b27bdf2c57b4e"
+    },
+    "about.html": {
+      "bytes": 6379,
+      "sha256": "04861858bfba5d8ccd746a5b4c579e80fa466a2723658edeef7487fdb4b875f2"
+    },
+    "about.mjs": {
+      "bytes": 538,
+      "sha256": "9b5e3804d94c96566d5db024af95321b01ac228e9d62a0ad0fe56bfcf7cb8ef5"
+    },
+    "app.mjs": {
+      "bytes": 23153,
+      "sha256": "bdf29d0f09606d4de5aa8a4835a97fc45e983e88d19ebaf9f2b4eaed3202dcb7"
+    },
+    "assets/mascot-neutral.png": {
+      "bytes": 749770,
+      "sha256": "d1ebe866d9ebcc0f49f504805c997f2baa7cd11c2b8e8db5c329fab7517c947e"
+    },
+    "assets/mascot-sad.png": {
+      "bytes": 748411,
+      "sha256": "9b9f246aff0d4c2a684b0400faa1ccf561f0d25cd7c72f03868545bfe34005ac"
+    },
+    "assets/mascot-smile.png": {
+      "bytes": 804824,
+      "sha256": "b37a31c8d724c1a7306e4255d91119a0cf9a385411ce56282e8f483a5e993cbe"
+    },
+    "assets/turnaround.png": {
+      "bytes": 1606672,
+      "sha256": "877413a1d51b2865ff66498a57545c27c9f628345f14aeb761bf56a1e0e2d924"
+    },
+    "engine.mjs": {
+      "bytes": 9449,
+      "sha256": "5ff591eae9bd73fde1ecd8dc56d84a79a5617b9407c9718a901837cddbae901f"
+    },
+    "index.html": {
+      "bytes": 1134,
+      "sha256": "ec94770f4961863820048b4566de348e6a1643186a4f0d626db5152e05d939ea"
+    },
+    "pack.json": {
+      "bytes": 47574,
+      "sha256": "5e014e83d594f307f1600399b875bdc771d78ac8430cc77e11444dab159e7f00"
+    },
+    "records.mjs": {
+      "bytes": 6758,
+      "sha256": "d79481fa831a4976c06fea203f7b0e9393c15c6228b4c840ced012c22f5462a1"
+    },
+    "style.css": {
+      "bytes": 26363,
+      "sha256": "9ca36664d6a749eb783e3c980a6debfaaa2923c81211469a4e0cf4c7d503c0be"
+    }
+  }
+}
