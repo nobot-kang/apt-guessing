@@ -51,3 +51,17 @@ records, on this browser only. The game does not upload them or use analytics.
 Clearing browser data removes them. Static answers can be inspected by a determined
 player; this is a casual game rather than a secure competition service. Hosting
 providers may handle ordinary web-request metadata.
+
+## Rules video
+
+The start screen's **게임 방법 영상 보기** opens `assets/rules-video.mp4` (1280×720 H.264,
+Korean narration with burned-in captions) in an in-page dialog; `assets/rules-video.jpg` is its poster.
+No external video service or tracking is used.
+
+
+## Copyright
+
+The penguin character Ttobak (또박) and every image or video depicting it (`assets/mascot-*.webp`,
+`assets/turnaround.webp`, `assets/rules-video.mp4`) are © 2026 Nobot Kang. All rights reserved. No open-source license applies;
+do not copy, modify or redistribute them without permission. The game pages, score-card images and
+video files carry the same notice.
